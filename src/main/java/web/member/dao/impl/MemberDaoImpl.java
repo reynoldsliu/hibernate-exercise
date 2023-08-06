@@ -1,6 +1,6 @@
 package web.member.dao.impl;
 
-import static core.util.CommonUtil.getConnection;
+//import static core.util.CommonUtil.getConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -18,7 +18,7 @@ import org.hibernate.query.Query;
 
 import core.util.HibernateUtil;
 import web.member.dao.MemberDao;
-import web.member.pojo.Member;
+import web.member.entity.Member;
 
 public class MemberDaoImpl implements MemberDao {
 
