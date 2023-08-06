@@ -1,2 +1,2 @@
 # hibernate-exercise
-hibernate exercise
+CHA102 Hibernate&Spring 
